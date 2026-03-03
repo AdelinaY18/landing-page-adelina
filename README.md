@@ -1,7 +1,7 @@
 # Base layout template with Gulp, SCSS and Stylelint
 1. Create a repo using this template
 1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://AdelinaY18.github.io/<landing-page-adelina>/)
+    - [DEMO LINK](https://AdelinaY18.github.io/landing-page-adelina/)
 
 
 
@@ -64,4 +64,4 @@ Live Preview
 
 Deployed version is available at:
 
-[DEMO LINK](https://AdelinaY18.github.io/<landing-page-adelina>/)
+[DEMO LINK](https://AdelinaY18.github.io/landing-page-adelina/)
