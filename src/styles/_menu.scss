@@ -37,3 +37,7 @@
     letter-spacing: 2px;
   }
 }
+
+body:has(.menu:target) {
+  overflow: hidden;
+}

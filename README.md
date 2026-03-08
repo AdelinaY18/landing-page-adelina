@@ -1,67 +1,75 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://AdelinaY18.github.io/landing-page-adelina/)
+🎧 Bang & Olufsen Landing Page
 
+A stylish and modern landing page inspired by the design philosophy of Bang & Olufsen — minimalism, elegance, and premium aesthetics.
 
+🔗 Live Demo:
+[DEMO]https://AdelinaY18.github.io/landing-page-adelina/
 
- Bang & Olufsen Landing Page
+✨ About the Project
 
-A stylish and modern landing page inspired by Bang & Olufsen design philosophy — minimalism, elegance, and premium aesthetics.
+This project is a fully responsive landing page created to practice modern front-end development techniques and clean layout structuring.
 
+The design follows the visual style of premium technology brands, focusing on:
 
-Technologies Used:
+minimalistic UI
+
+clean typography
+
+balanced spacing
+
+modern layout structure
+
+The main goal of this project was to improve skills in HTML structure, SCSS styling, and responsive layout development.
+
+🛠 Technologies Used
 
 HTML5
 
 SCSS (Sass)
 
-Responsive layout (Flexbox / Grid)
+Flexbox
 
-Clean semantic structure
+CSS Grid
 
+Responsive Web Design
 
-About the Project:
+Stylelint
 
-This project represents a fully responsive landing page built with a focus on:
+📱 Features
 
-Modern UI design
-
-Clean and structured code
-
-Smooth layout and typography
-
-Reusable and well-organized SCSS styles
-
-The goal of this project was to practice layout structuring, styling with SCSS, and building a visually appealing landing page following real-world brand inspiration.
+✔ Responsive design for different screen sizes
+✔ Clean semantic HTML structure
+✔ Organized SCSS architecture
+✔ Reusable styles and components
+✔ Modern and minimalistic UI
 
 
- Features:
 
-Responsive design for different screen sizes
+The project uses a structured SCSS architecture to keep styles clean and maintainable.
 
-Organized SCSS architecture
-
-Clean semantic HTML
-
-Structured project layout
-
-
-Installation & Setup:
-
-Clone the repository:
-
-git clone <your-repository-link>
-
-Install dependencies:
-
+⚙ Installation & Setup
+1️⃣ Clone the repository
+git clone https://github.com/AdelinaY18/landing-page-adelina.git
+2️⃣ Navigate to the project folder
+cd landing-page-adelina
+3️⃣ Install dependencies
 npm install
-
-Run the project:
-
+4️⃣ Run the project
 npm start
-Live Preview
+🚀 Live Preview
 
-Deployed version is available at:
+The deployed version of the project is available here:
 
-[DEMO LINK](https://AdelinaY18.github.io/landing-page-adelina/)
+🔗 https://AdelinaY18.github.io/landing-page-adelina/
+
+💡 Learning Goals
+
+This project helped practice:
+
+building responsive layouts
+
+working with SCSS architecture
+
+structuring semantic HTML
+
+organizing a clean front-end project

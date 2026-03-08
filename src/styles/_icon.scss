@@ -4,7 +4,7 @@
   width: 24px;
   background-image: url(../../icon/icon.burger-menu.before.png);
   background-size: cover;
-  cursor: url(../../icon/Cursor-Mouse-Mice.png), pointer;
+  cursor: pointer;
 
   @include on-tablet {
     height: 32px;
